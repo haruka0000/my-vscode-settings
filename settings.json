@@ -1,7 +1,4 @@
 {
-    "python.jediEnabled": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "python.showStartPage": false,
     "latex-workshop.chktex.enabled": true,
     // ビルドコマンド
     "latex-workshop.latex.tools": [
@@ -29,7 +26,5 @@
     // Viewer関係
     "latex-workshop.view.pdf.viewer": "tab",
     "latex-workshop.view.pdf.zoom": "page-width",
-
     "latex-workshop.synctex.afterBuild.enabled": true,
-
 }
